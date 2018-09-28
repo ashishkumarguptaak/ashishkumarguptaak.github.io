@@ -1,2 +1,2 @@
 # ashishkumarguptaak.github.io
-Simple ToDo list web application
+Static wallpaper web app
